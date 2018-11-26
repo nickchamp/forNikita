@@ -1,0 +1,11 @@
+Memphis Test Strategy
+
+In this project it would be great to automate such areas as User Log In and Scenarios of creating basic entities (provided below). This is necessary to optimize time of QA and dev team to localize and fix possible issues connected with new commits.
+
+For manual test cases and test scenarios view the link:
+https://docs.google.com/spreadsheets/d/1Kd5hABbi-RtdmzjzH8kJG_GcPdhD4gn2JwtrWd2dg1I/edit?usp=sharing
+
+Implemented automated tests are located here: 
+https://github.com/nickchamp/forNikita
+
+Further implementation of automated tests in the project could be extended with negative test sceanarios or different other areas needed. Also cross-browser & cross-platform could be implemented.
