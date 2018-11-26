@@ -1,0 +1,9 @@
+Steps to run the tests from Linux OS:
+
+1. open the folder with project
+2. open terminal 
+3. all packages from dependencies in package.json should be installed (if not - print "npm i <package name>" in console and press Enter)
+3. input webdriver-manager update and press enter
+4. input webdriver-manager start and press enter
+5. open another terminal window
+6. input protractor conf.js --spec Creation.js and press enter

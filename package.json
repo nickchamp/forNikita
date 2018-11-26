@@ -1,0 +1,24 @@
+{
+  "name": "memphis-tests",
+  "version": "1.0.0",
+  "description": "tests for memphis project",
+  "main": "LogIn.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "author": "nickchamp",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "fs": "0.0.1-security",
+    "jasmine": "^3.3.0",
+    "jasmine-reporters": "^2.3.2",
+    "mocha": "^5.2.0",
+    "nyc": "^13.1.0",
+    "protractor": "^5.4.1",
+    "protractor-html-reporter-2": "^1.0.4",
+    "protractor-html-screenshot-reporter": "0.0.21",
+    "protractor-jasmine2-screenshot-reporter": "^0.5.0"
+  }
+}
